@@ -1,0 +1,22 @@
+{
+  "wheel_id": 637,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergeelong-153",
+  "project": "mortgage-brokers-geelong-f7f97bb9df0c703bc4ceba187da511bcb8a272",
+  "parent_t1_ref": "homeloanbrokergeelong-011",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokergeelong.com.au",
+  "primary_kw": "mortgage brokers geelong",
+  "intended_url": "https://aumedia.neocities.org/mortgage-brokers-geelong-f7f97bb9df0c703bc4ceba187da511bcb8a272/",
+  "tier": "T2",
+  "writeback_nonce": "5cfe77fc08869ba3",
+  "links": [
+    {
+      "target_url": "https://mortgage-brokers-geelong-homeloanbrokergeelong-011-4ef4d4.gitlab.io/",
+      "anchor": "Mortgage Brokers Geelong: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
